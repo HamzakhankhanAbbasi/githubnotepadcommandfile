@@ -1,0 +1,44 @@
+//github
+
+//first download git in your pc 
+//https://git-scm.com/download/win
+
+
+//sab say phely 
+//desktop may folder hoga us par right click kar kay
+//git besh may kam karna,command prompt may kam mat karna..
+//use gitbesh,folder open mat karna.............
+//close folder may hi gitbesh use karna right click kar kay
+//folder bnd hona chya
+//link  github samjany kay lia
+//https://www.youtube.com/watch?v=09IQzFrrFXA
+
+
+git init
+phir git status check karo
+git status red ai ga yani file connect nhe hay
+phir status ko connect karny kay lia
+
+git add -A
+
+is say status connect hojay ga 
+phir status check karo 
+git status phir sari files green ai gi
+
+yani status ok
+
+phir yah sari command 
+
+git init
+git add README.mdc
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/HamzakhankhanAbbasi/CardAssigmnetReact.git//yah reference har folder ka alag hoga
+git push -u origin main
+
+
+
+
+
+
+
